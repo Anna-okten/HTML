@@ -1,0 +1,69 @@
+body{
+    font-family: Arial,sans-serif;
+  }
+.Form{
+    margin: 0 auto;
+    width: 30vw;
+    height: 75vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.login{
+    width: 100%;
+    height: 90%;
+    border: 1px solid rgba(128, 128, 128, 0.54);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+input[type="text"],
+input[type="password"]{
+    width: 75%;
+    padding: 3% 8%;
+    text-overflow: ellipsis;
+    margin-top: 15px;
+}
+input[type="submit"] {
+    background-color: #68b5fa;
+    width: 91%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin: 20px 0;
+    padding: 3% 8%;
+}
+
+Form span{
+    margin: 10px 0;
+    color: gray;
+}
+Form p svg{
+    margin-bottom: -5px;
+}
+Form p{
+    color:#155694 ;
+    margin: 15px 0;
+}Form a{
+     color:#155694 ;
+     margin-bottom: 15px;
+    text-decoration: none;
+ }
+.registration{
+    height: 10vh;
+    width: 30vw;
+    margin:3%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid rgba(128, 128, 128, 0.54);
+}
+.registration a{
+    color:#68b5fa ;
+    text-decoration: none;
+    font-weight: 600;
+
+}
