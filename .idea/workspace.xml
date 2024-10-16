@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d988384-2348-4828-a97a-f5e037cbdb54" name="Changes" comment="add .iml">
+      <change beforePath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/stale 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/stale 2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/task 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/task 2.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Anna-okten&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Anna-okten/HTML.git&quot;,
+    &quot;accountId&quot;: &quot;3073022b-266e-43f8-8064-d24c4bf61223&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nOM6gE0jFdUCp0eh9DzrlFfKcb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 7\task 7 2" />
+      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 7\task 7 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d988384-2348-4828-a97a-f5e037cbdb54" name="Changes" comment="" />
+      <created>1728839497614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728839497614</updated>
+      <workItem from="1728839498619" duration="34000" />
+      <workItem from="1728839574982" duration="104000" />
+      <workItem from="1728839711578" duration="233000" />
+      <workItem from="1728839962184" duration="675000" />
+      <workItem from="1728925354074" duration="773000" />
+      <workItem from="1729012279498" duration="1172000" />
+      <workItem from="1729014335739" duration="326000" />
+      <workItem from="1729086817753" duration="1132000" />
+    </task>
+    <task id="LOCAL-00001" summary="add .iml">
+      <option name="closed" value="true" />
+      <created>1728840025438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728840025438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add .iml">
+      <option name="closed" value="true" />
+      <created>1728926099908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728926099908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add .iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .iml" />
+  </component>
+</project>
