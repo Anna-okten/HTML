@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7a0078-65c0-4c82-b176-4080d231edaf" name="Changes" comment="lesson 7">
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/hw 8.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/style-481-768.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/style-769-1279.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/style.css" afterDir="false" />
+    <list default="true" id="3d7a0078-65c0-4c82-b176-4080d231edaf" name="Changes" comment="lesson 8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +88,7 @@
       <updated>1728892246409</updated>
       <workItem from="1728892249673" duration="4485000" />
       <workItem from="1728897262141" duration="15409000" />
-      <workItem from="1728992817964" duration="7392000" />
+      <workItem from="1728992817964" duration="7892000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 7">
       <option name="closed" value="true" />
@@ -107,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728914769213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 8">
+      <option name="closed" value="true" />
+      <created>1729000391320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729000391320</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 8">
+      <option name="closed" value="true" />
+      <created>1729000434754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729000434754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7" />
+    <MESSAGE value="lesson 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 8" />
   </component>
 </project>
