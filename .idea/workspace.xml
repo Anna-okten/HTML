@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7a0078-65c0-4c82-b176-4080d231edaf" name="Changes" comment="add .iml">
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/rest.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/hw 8.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/img/Image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/img/Image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/img/Image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/img/Image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/rest.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style-481-768.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style-769-1279.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style.css" afterDir="false" />
+    <list default="true" id="3d7a0078-65c0-4c82-b176-4080d231edaf" name="Changes" comment="lesson 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/stale 2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/stale 2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/task 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 7/task 7 2/task 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/hw 8.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/hw 8.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/img/Img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/img/Img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/img/Img5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/img/Img6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/Img6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/img/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/img2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/img/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/img/img3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/style-481-768.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/style-481-768.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/style-769-1279.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/style-769-1279.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 9/task 1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/lesson 8/task 2/style-481-768.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style-481-768.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/lesson 8/task 2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,38 +42,33 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2nQ51CmGRhFvVRbOLfHsL4h4O4m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Альбина/IdeaProjects/HTML/Homework/lesson 8/task 1",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a.domeshkina/IdeaProjects/HTML/Homework/lesson 8/task 1/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 8\task 1" />
-      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 8\task 2\img" />
-      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 8\task 2" />
       <recent name="C:\Users\a.domeshkina\IdeaProjects\HTML\Homework\lesson 8\task 1\img" />
       <recent name="C:\Users\a.domeshkina\IdeaProjects\HTML\Homework\lesson 7\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework" />
       <recent name="img,1" />
     </key>
   </component>
@@ -150,7 +125,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 7" />
     <MESSAGE value="lesson 8" />
-    <MESSAGE value="add .iml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 8" />
   </component>
 </project>
