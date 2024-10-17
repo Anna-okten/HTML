@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0;
+        }
+.blok{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    grid-template-rows: 0.3fr 1.5fr 1.5fr 0.5fr;
+    grid-template-areas:
+    'header header header'
+    'main section top'
+    'main section bottom'
+    'footer footer footer';
+}
+header{
+    grid-area:header;
+    background: #D9D9D9;
+}
+main{
+    grid-area: main;
+    background: #A4A4A4;
+}
+        section{
+            grid-area:section ;
+            background: #C1C1C1;
+ }
+        .top{
+            grid-area: top;
+            background: #7F7A7A;
+        }
+.bottom{
+    grid-area: bottom;
+    background: #6B6161;
+}
+footer{
+    grid-area:foote ;
+    background: #D9D9D9;
+}
+
+    </style>
+</head>
+<body>
+<div class="blok">
+   <header></header>
+    <main></main>
+    <section></section>
+    <nav class="top"></nav>
+    <nav class="bottom"></nav>
+    <footer></footer>
+
+</div>
+</body>
+</html>

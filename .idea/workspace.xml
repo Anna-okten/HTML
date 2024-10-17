@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7a0078-65c0-4c82-b176-4080d231edaf" name="Changes" comment="lesson 8">
+    <list default="true" id="3d7a0078-65c0-4c82-b176-4080d231edaf" name="Changes" comment="add .iml">
+      <change afterPath="$PROJECT_DIR$/Homework/lesson 9/task 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson 9/task 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson 9/task 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson 9/task 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/lesson 9/task 5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 8/task 2/style-481-768.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style-481-768.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/lesson 8/task 2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/lesson 8/task 2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,17 +34,18 @@
     &quot;assignee&quot;: &quot;Anna-okten&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Anna-okten/HTML.git&quot;,
-    &quot;accountId&quot;: &quot;c9c99ba2-f684-4cf3-b26c-fed0b8be47f6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anna-okten/HTML.git",
+    "accountId": "3073022b-266e-43f8-8064-d24c4bf61223"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2nQ51CmGRhFvVRbOLfHsL4h4O4m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +57,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/a.domeshkina/IdeaProjects/HTML/Homework/lesson 8/task 1/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Альбина/IdeaProjects/HTML/Homework/lesson 8/task 1&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -65,10 +69,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 8\task 1" />
+      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 8\task 2\img" />
+      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework\lesson 8\task 2" />
       <recent name="C:\Users\a.domeshkina\IdeaProjects\HTML\Homework\lesson 8\task 1\img" />
       <recent name="C:\Users\a.domeshkina\IdeaProjects\HTML\Homework\lesson 7\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Альбина\IdeaProjects\HTML\Homework" />
       <recent name="img,1" />
     </key>
   </component>
@@ -125,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 7" />
     <MESSAGE value="lesson 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 8" />
+    <MESSAGE value="add .iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .iml" />
   </component>
 </project>
