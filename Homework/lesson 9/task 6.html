@@ -4,10 +4,67 @@
     <meta charset="UTF-8">
     <title>Title</title>
   <style>
+*{
+    margin: 0;
+}
 
+.content{
+    display: grid;
+    height: 100vh;
+    grid-template-columns:  4fr 1fr;
+    grid-template-rows: 1fr 1fr 0.5fr 0.5fr 1fr 1fr;
+    grid-template-areas:
+     'header header'
+    'content-1 spam-1'
+    'content-2 spam-1'
+    'content-2 spam-2'
+     'content-3 spam-2'
+    'footer footer';
+   }
+header{
+    grid-area: header;
+    background: #8D8484;
+}
+.content section:nth-child(2){
+    grid-area:content-1 ;
+    background: #776969;
+}
+.content section:nth-child(3){
+    grid-area:content-2 ;
+    background: #643030;
+}
+.content section:nth-child(4){
+    grid-area:content-3 ;
+    background: #441818;
+}
+.content main:nth-child(5){
+    grid-area: spam-1;
+    background: #937575;
+}
+.content main:nth-child(6){
+    grid-area: spam-2;
+    background: #644C4C;
+}
+footer{
+    grid-area:footer ;
+    background: #BDBDBD;
+}
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
   </style>
 </head>
 <body>
-<div class=""></div>
+<div class="content">
+    <header class="item"> <h2>Header</h2></header>
+    <section class="item"><h2>Content-1</h2> </section>
+    <section class="item"> <h2>Content-2</h2> </section>
+    <section class="item"><h2>Content-3</h2></section>
+    <main class="item"><h2>spam-1</h2></main>
+    <main class="item"><h2>spam-2</h2></main>
+    <footer class="item"> <h2>Footer</h2></footer>
+</div>
 </body>
 </html>
